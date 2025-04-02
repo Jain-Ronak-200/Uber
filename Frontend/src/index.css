@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Prata&display=swap');
+
+*{
+  font-family: Outfit,sans-serif;
+}
+
+.live-location-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.llive-location-container {
+  position: relative;
+  width: 100%;
+  height: 65%;
+  overflow: hidden;
+}
+.lllive-location-container {
+  position: relative;
+  width: 100%;
+  height: 55%;
+  overflow: hidden;
+}
+.live-location-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
