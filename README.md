@@ -16,9 +16,7 @@ Uber is a JavaScript application designed to provide a platform for ride-sharing
 
 
 
-## Credits
 
-When you first sign up, you get 5 credits. You can use these credits to generate five free images. After using your free credits, you will need to purchase more credits to continue generating images.
 
 ## Installation
 
